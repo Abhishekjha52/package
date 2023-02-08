@@ -1,0 +1,14 @@
+{
+  "name": "@abhishekjha/is-correct-match",
+  "version": "1.0.3",
+  "description": "Is the string matches?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Abhishek Jha",
+  "license": "ISC"
+}
